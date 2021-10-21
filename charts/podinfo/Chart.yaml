@@ -5,6 +5,8 @@ name: podinfo
 engine: gotpl
 description: Podinfo Helm chart for Kubernetes
 home: https://github.com/stefanprodan/podinfo
+annotations:
+  weave.works/profile: demo-profile
 maintainers:
 - email: stefanprodan@users.noreply.github.com
   name: stefanprodan
