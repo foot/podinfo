@@ -1,7 +1,7 @@
 apiVersion: v1
-version: 42.0.1
-appVersion: 40.0.1
-name: podinfo
+version: 42.0.2
+appVersion: 40.0.2
+name: nginx
 engine: gotpl
 description: nginx
 home: https://github.com/github/nginx
